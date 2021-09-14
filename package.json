@@ -2,7 +2,7 @@
   "name": "discord-music-bot",
   "version": "1.0.0",
   "description": "The perfect music bot for your Discord server! 🤘",
-  "main": "./index.js",
+  "main": "app/index.js",
   "repository": "https://github.com/Androz2091/discord-music-bot",
   "author": "Androz2091 <androz2091@gmail.com>",
   "license": "MIT",
